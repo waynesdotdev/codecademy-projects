@@ -1,1 +1,3 @@
-This is a repo of all the Codecademy projects that i have done
+# Codecademy Fullstack Engineer Projects
+
+[Link to my Codecademy Profile](https://www.codecademy.com/profiles/waynesdotdev)
