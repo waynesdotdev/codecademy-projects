@@ -8,7 +8,7 @@ const celsius = kelvin - 273
 const newton = Math.floor(celsius * (33 / 100))
 
 // the calculation of fahrenheit - (Fahrenheit = Celsius * (9/5) + 32)
-let fahrenheit =  celsius * (9 / 5) + 32
+let fahrenheit = celsius * (9 / 5) + 32
 // taking fahrenheit and Math.floor to round it down
 fahrenheit = Math.floor(fahrenheit)
 
